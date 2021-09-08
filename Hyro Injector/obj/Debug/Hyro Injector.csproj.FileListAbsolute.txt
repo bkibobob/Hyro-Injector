@@ -1,0 +1,7 @@
+D:\Source\Repos\Hyro Injector\Hyro Injector\bin\Debug\Hyro Injector.exe.config
+D:\Source\Repos\Hyro Injector\Hyro Injector\bin\Debug\Hyro Injector.exe
+D:\Source\Repos\Hyro Injector\Hyro Injector\bin\Debug\Hyro Injector.pdb
+D:\Source\Repos\Hyro Injector\Hyro Injector\obj\Debug\Hyro Injector.csprojAssemblyReference.cache
+D:\Source\Repos\Hyro Injector\Hyro Injector\obj\Debug\Hyro Injector.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Hyro Injector\Hyro Injector\obj\Debug\Hyro Injector.exe
+D:\Source\Repos\Hyro Injector\Hyro Injector\obj\Debug\Hyro Injector.pdb
